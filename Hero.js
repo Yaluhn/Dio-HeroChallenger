@@ -4,8 +4,6 @@ const prompt = readline.createInterface({
     output: process.stdout
 });
 
-let nome = "";
-let xp = 0;
 let nivel = "";
 
 
